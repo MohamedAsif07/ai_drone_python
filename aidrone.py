@@ -62,7 +62,7 @@ class DisasterResponseSystem:
         # self.cap = cv2.VideoCapture(1)
         self.db = self.initialize_firebase()
         self.sender_email = "mohamedasif7799@gmail.com"
-        self.app_password = "sxwd fbpx vvkh alvz"
+        self.app_password = ""# your app passsword 
         self.receiver_email = "rmohamedasif1@gmail.com"
         self.emergency_contacts = [
             "rmohamedasif1@gmail.com",  # Primary contact
